@@ -13,7 +13,7 @@ public class Task4 {
 	c = Math.sqrt(a * a + b * b);
 	s = 0.5 * a * b;
 	
-	System.out.println("Гипотенуза =" + c + "Площадь =" + s);
+	System.out.println("Гипотенуза = " + c + " Площадь = " + s);
 	}
 	
 
